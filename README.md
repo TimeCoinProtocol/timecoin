@@ -1,4 +1,7 @@
-# TimeCoin Protocol Overview
+# Timecoin
+The TimeCoin token (symbol: TMCN) is an Ethereum-based ERC20 token that supports the functions of the TimeCoin Protocol. 
+
+## TimeCoin Protocol Overview
 TimeCoinProtocol is decentralized sharing economy protocol using the Ethereum blockchain.
 Individual or Corporation can build and operate their own sharing economy application, dApp running on TimeCoinProtcol. dApp users can securely share their own data across the platform to get better services from dApp providers.
 TimeCoinProtocol plans to release the two dApps, “eSportStars” and “TimeTicket”.
