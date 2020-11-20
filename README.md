@@ -1,9 +1,7 @@
-# Timecoin
-The TimeCoin token (symbol: TMCN) is an Ethereum-based ERC20 token that supports the functions of the TimeCoin Protocol. 
-
-## TimeCoin Protocol Overview
-TimeCoinProtocol (TCP) is a decentralized protocol that allows developers to build and operate decentralized applications (dApps) while also facilitating peer-to-peer trade without the need for intermediaries. It is designed to incentivize cooperation and healthy competition between participants. TCP enables users to carry their reputation with them between services and provides correlative tools that allow operators to actively seek out users who are likely to be interested in their services. 
-
-Freelancers can use dApps built upon TimeCoinProtocol to trade skills, talents, financial assets, products and services, physical and intellectual properties, and transportation. Users seeking these services and assets can easily search for them and purchase directly from the provider via trustless transactions that are facilitated by the underlying blockchain.  
-
-TimeCoinProtocol has been developed by TimeTicket, Inc., a wholly owned subsidiary of Globalway Inc.  Parent company Globalway Inc is an established and trusted market leader in social media with a proven track record in building and operating sharing economy services. TCP is characterized by low transaction fees, efficient utilization of reputational data and activity records which can be shared across dApps, rewards for protocol participants proportionate to their contribution, and minimal development and operational costs.
+# TimeCoin Protocol Overview
+TimeCoinProtocol is decentralized sharing economy protocol using the Ethereum blockchain.
+Individual or Corporation can build and operate their own sharing economy application, dApp running on TimeCoinProtcol. dApp users can securely share their own data across the platform to get better services from dApp providers.
+TimeCoinProtocol plans to release the two dApps, “eSportStars” and “TimeTicket”.
+eSportStars is for everyone including professional esports players, fans and players aiming to become professionals around the world. It’s an unprecedented service that offers all players the opportunity to find suitable opponents to play against as well as hosting tournaments and competing in popular esports games beyond geographical boundaries.
+TimeTicket is a popular application that connects people who wish to buy and sell skills and exchange knowledge. The existing TimeTicket, premier sharing economy service in Japan has more than 400,000 users and the sales has grown 30 times over 3 years. The dApp version of TimeTicket will be released targeting Chinese, India, and other regions.
+The dApp users will be rewarded with TimeCoin(TMCN) by playing esports games on eSportStars called “esports Mining” and purchasing services on TimeTicket called “Time Mining”. TimeCoin will be used as the payment token for dApps.
