@@ -1,10 +1,53 @@
-# Timecoin
-The TimeCoin token (symbol: TMCN) is an Ethereum-based ERC20 token that supports the functions of the TimeCoin Protocol. 
+# TimeCoinProtocol & dApp Development Activities
+## TimeTicket 
+TimeTicket is a skill sharing service for the B2B and C2C market.
+Currently enhancing Japanese version and plan to develop international version
+https://www.timeticket.jp/
+![Screen Shot 2021-04-03 at 20 18 30](https://user-images.githubusercontent.com/69519997/113476969-d9457300-94b9-11eb-9817-7a2aa9054bc1.png)
 
-## TimeCoin Protocol Overview
-TimeCoinProtocol is decentralized sharing economy protocol using the Ethereum blockchain.
-Individual or Corporation can build and operate their own sharing economy application, dApp running on TimeCoinProtcol. dApp users can securely share their own data across the platform to get better services from dApp providers.
-TimeCoinProtocol plans to release the two dApps, “eSportStars” and “TimeTicket”.
-eSportStars is for everyone including professional esports players, fans and players aiming to become professionals around the world. It’s an unprecedented service that offers all players the opportunity to find suitable opponents to play against as well as hosting tournaments and competing in popular esports games beyond geographical boundaries.
-TimeTicket is a popular application that connects people who wish to buy and sell skills and exchange knowledge. The existing TimeTicket, premier sharing economy service in Japan has more than 400,000 users and the sales has grown 30 times over 3 years. The dApp version of TimeTicket will be released targeting Chinese, India, and other regions.
-The dApp users will be rewarded with TimeCoin(TMCN) by playing esports games on eSportStars called “esports Mining” and purchasing services on TimeTicket called “Time Mining”. TimeCoin will be used as the payment token for dApps.
+### Development history
+#### 2020
+------
+- Feb
+  - TimeTicket Biz(B2B) Enhancement: Profile 
+- April
+  -  TimeTicket Biz(B2B) Enhancement: Content Form 
+- May
+  - TimeTicket(C2C) Enhancement: Apple ID Signup Function Release
+  - TimeTicket(C2C) Enhancement:Android App Version 1.0 Release
+  - Integration with CareerConnection: User Data Sharing Function Release 
+- June
+  - Integration with CareerConnection: Ticket Data Sharing Function Release
+  - iOS App Ver 3.2.0 Release
+- August
+  - iOS App Ver 3.2.1 Release
+  - Integration with CareerConnection: Adding New Categories for CareerConnection
+- Sep
+  - Migration from old Category to new Category Release
+  - URL Normalization Release(Search Engine Optimization) 
+- Nov
+  - Video Streaming Function Release
+#### 2021
+------
+- Jan, 2021
+  - User Review Page Update
+- Feb, 2021
+  - Ticket Price Management System Enhancement
+
+## eSportStars
+eSportStars is the user matching service for an esports professional player and fan where they can trade service and NFT digital items with DeFi.
+https://esportstars.jp/
+![Screen Shot 2021-04-03 at 20 20 47](https://user-images.githubusercontent.com/69519997/113477012-245f8600-94ba-11eb-9ab4-e6b41126f8f5.png)
+### Development history
+#### 2020
+- Oct
+  - First Version is Release
+- Dec
+  - Tournament Operation Function is Release 
+#### 2021
+- Jan
+  - Multi-Language Function is Release
+- Feb
+  - Game Upload Function is Release    
+- March
+  - Search Engine Optimization
