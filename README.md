@@ -1,4 +1,9 @@
 # TimeCoinProtocol & dApp Development Activities
+
+
+
+
+
 ## TimeTicket
 TimeTicket is a skill sharing service for the B2B and C2C market. Currently enhancing Japanese version and plan to develop international version
 ### https://www.timeticket.jp/
@@ -67,3 +72,17 @@ eSportStars is the user matching service for an esports professional player and 
 
 ##### March
 - Search Engine Optimization
+
+## VTuber and Digital Creator Business
+We engage a management contract with digital creators including game, esports, anime music, and anime to perform on our decentralized platform and sell NFT digital items. We put special focus on VTubers which is the fast growing new business.
+
+### Shirahari Uni - Start performing in May, 2020
+
+![Vtuber_ShirahariUni](https://user-images.githubusercontent.com/69519997/114326486-ffc97500-9b6f-11eb-8f89-217005d93a36.png)
+Multi-language anime song singer and singer song writer who can also play esports games.
+https://www.youtube.com/channel/UCDl5qfjqZR5MLN1pogAgBog
+
+### Inumaru Hotaru - Start performing in June, 2020
+
+Virtual dog working in a Japanese hospital as a nurse. Learning English. Good at playing APEX and colorcast various games such as NeiR Replicant.
+https://www.youtube.com/channel/UCmmKpuXpOSaRGrqx9G2lX0w
