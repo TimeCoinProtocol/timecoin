@@ -47,6 +47,10 @@ TimeTicket is a skill sharing service for the B2B and C2C market. Currently enha
 ##### Feb
 - Ticket Price Management System Enhancement
 
+##### Apr
+- Releasing TimeTicket B2C(https://tech.timeticket.jp) and C2C(https://timeticket.jp) profile registration process and UI renewable. TimeTicket B2C and C2C site will be integrated into one. The integration project phase 1&2 is completed.
+
+
 ## eSportStars
 eSportStars is the user matching service for an esports professional player and fan where they can trade service and NFT digital items with DeFi.
 ### https://esportstars.jp/
