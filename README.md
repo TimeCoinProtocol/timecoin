@@ -1,8 +1,7 @@
 # TimeCoinProtocol & dApp Development Activities
 
-
-
-
+## GameTomodachi - Game Player Matchmaking Service
+TimeCoinProtcol launch a new project called "GameTomodachi" in May 21st, 2021. "Tomodachi" means a friend in Japanese. GameTomodachi provides game players to find a new game friend to play with/against various games. Not only finding a new game friend, a user can enjoy playing games with influencers such as YouTubers, VTubers, esports professional players, and cute & beautiful girls. While they are playing games online, they can communicate with each other about common interest topics. An influencer can sell a ticket to play a game with a fan, share pictures/video, and sell NFT goods as wel.l
 
 ## TimeTicket
 TimeTicket is a skill sharing service for the B2B and C2C market. Currently enhancing Japanese version and plan to develop international version
@@ -85,8 +84,3 @@ We engage a management contract with digital creators including game, esports, a
 ![Vtuber_ShirahariUni](https://user-images.githubusercontent.com/69519997/114326486-ffc97500-9b6f-11eb-8f89-217005d93a36.png)
 Multi-language anime song singer and singer song writer who can also play esports games.
 https://www.youtube.com/channel/UCDl5qfjqZR5MLN1pogAgBog
-
-### Inumaru Hotaru - Start performing in June, 2020
-
-Virtual dog working in a Japanese hospital as a nurse. Learning English. Good at playing APEX and colorcast various games such as NeiR Replicant.
-https://www.youtube.com/channel/UCmmKpuXpOSaRGrqx9G2lX0w
