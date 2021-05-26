@@ -1,7 +1,35 @@
 # TimeCoinProtocol & dApp Development Activities
 
 ## GameTomodachi - Game Player Matchmaking Service
-TimeCoinProtcol launch a new project called "GameTomodachi" in May 21st, 2021. "Tomodachi" means a friend in Japanese. GameTomodachi provides game players to find a new game friend to play with/against various games. Not only finding a new game friend, a user can enjoy playing games with influencers such as YouTubers, VTubers, esports professional players, and cute & beautiful girls. While they are playing games online, they can communicate with each other about common interest topics. An influencer can sell a ticket to play a game with a fan, share pictures/video, and sell NFT goods as wel.l
+TimeCoinProtcol launch a new project called "GameTomodachi" in May 21st, 2021. "Tomodachi" means a friend in Japanese. GameTomodachi provides game players to find a new game friend to play with/against various games. Not only finding a new game friend, a user can enjoy playing games with influencers such as YouTubers, VTubers, esports professional players, and cute & beautiful girls. While they are playing games online, they can communicate with each other about common interest topics. An influencer can sell a ticket to play a game with a fan, share pictures/video, and sell NFT goods as well.
+
+## NeoRad Production
+NeoRad Production is a VTuber agency operated by TimeTicket.
+Creating a "NeoRad emotion" is our mission.
+To fulfill this mission, we aim to provide "innovative" and "cool" entertainment to the world.
+Transcending the boundaries between the real world and the digital world, our group of groundbreaking virtual creators is providing a wide range of entertainment content such as games, songs, music, animation, and manga.
+
+### 白針うに / Shirahari Uni
+Birthday：March 18
+Age: Around 19 y/o in human years
+She's half hedgehog, half human.
+She was a famous hacker in the hedgehog world, but an unexpected incident led to her reincarnation as a human with animal ears.
+She became a Vtuber with a mission to hack YouTube channels.
+She has a loose personality, but when she has to do something, she gets it done.
+She loves to sing.
+![Shirahariuni](https://user-images.githubusercontent.com/69519997/119617979-5992af80-be3d-11eb-9e19-b91c7ddbacb9.jpg)
+https://www.youtube.com/channel/UCDl5qfjqZR5MLN1pogAgBog
+
+### 彩無色 / Irodori Musiki
+Birthday: June 23
+Age: 300 y/o (Self-proclaimed)
+He has a cool, sweet voice that can seduce girls.
+He used to live as a snake, but after an unexpected encounter in the human world, he was given a human form.
+His hair is emerald and shiny, and his skin is covered with scales.
+He has an egotistical and bold attitude, but he also has a cute side due to his sweet tooth.
+He's usually trying to be cool, but he's really scared of horror games, and tends to scream if he's spooked while playing.
+He enjoys playing video games.
+![irodori](https://user-images.githubusercontent.com/69519997/119617963-539cce80-be3d-11eb-9ba2-16a5825d974b.png)
 
 ## TimeTicket
 TimeTicket is a skill sharing service for the B2B and C2C market. Currently enhancing Japanese version and plan to develop international version
@@ -75,12 +103,3 @@ eSportStars is the user matching service for an esports professional player and 
 
 ##### March
 - Search Engine Optimization
-
-## VTuber and Digital Creator Business
-We engage a management contract with digital creators including game, esports, anime music, and anime to perform on our decentralized platform and sell NFT digital items. We put special focus on VTubers which is the fast growing new business.
-
-### Shirahari Uni - Start performing in May, 2020
-
-![Vtuber_ShirahariUni](https://user-images.githubusercontent.com/69519997/114326486-ffc97500-9b6f-11eb-8f89-217005d93a36.png)
-Multi-language anime song singer and singer song writer who can also play esports games.
-https://www.youtube.com/channel/UCDl5qfjqZR5MLN1pogAgBog
