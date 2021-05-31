@@ -4,10 +4,15 @@
 TimeCoinProtcol launch a new project called "GameTomodachi" in May 21st, 2021. "Tomodachi" means a friend in Japanese. GameTomodachi provides game players to find a new game friend to play with/against various games. Not only finding a new game friend, a user can enjoy playing games with influencers such as YouTubers, VTubers, esports professional players, and cute & beautiful girls. While they are playing games online, they can communicate with each other about common interest topics. An influencer can sell a ticket to play a game with a fan, share pictures/video, and sell NFT goods as well.
 
 ## NeoRad Production
+
+![NeoRad_TwitterCover_cover_C](https://user-images.githubusercontent.com/69519997/120124713-9c170c00-c1f0-11eb-9c63-0d125e1c37f3.png)
+
 NeoRad Production is a VTuber agency operated by TimeTicket.
 Creating a "NeoRad emotion" is our mission.
 To fulfill this mission, we aim to provide "innovative" and "cool" entertainment to the world.
 Transcending the boundaries between the real world and the digital world, our group of groundbreaking virtual creators is providing a wide range of entertainment content such as games, songs, music, animation, and manga.
+
+https://www.neorad.jp/
 
 ### 白針うに / Shirahari Uni
 Birthday：March 18
@@ -17,6 +22,7 @@ She was a famous hacker in the hedgehog world, but an unexpected incident led to
 She became a Vtuber with a mission to hack YouTube channels.
 She has a loose personality, but when she has to do something, she gets it done.
 She loves to sing.
+
 ![Shirahariuni](https://user-images.githubusercontent.com/69519997/119617979-5992af80-be3d-11eb-9e19-b91c7ddbacb9.jpg)
 https://www.youtube.com/channel/UCDl5qfjqZR5MLN1pogAgBog
 
