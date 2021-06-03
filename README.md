@@ -3,6 +3,65 @@
 ## GameTomodachi - Game Player Matchmaking Service
 TimeCoinProtcol launch a new project called "GameTomodachi" in May 21st, 2021. "Tomodachi" means a friend in Japanese. GameTomodachi provides game players to find a new game friend to play with/against various games. Not only finding a new game friend, a user can enjoy playing games with influencers such as YouTubers, VTubers, esports professional players, and cute & beautiful girls. While they are playing games online, they can communicate with each other about common interest topics. An influencer can sell a ticket to play a game with a fan, share pictures/video, and sell NFT goods as well.
 
+### Schedule
+|Main Task|Sub Task|Status|Completed Date|
+|-|-|-|-|
+|Spec Definition|-|-|-|
+|-|Top|In Progress|-|
+|-|User Registration|In Progress|-|
+|-|Mail Confirmation|In Progress|-|
+|-|Login|In Progress|-|
+|-|Search Result|In Progress|-|
+|-|Profile|In Progress|-|
+|-|Block|In Progress|-|
+|-|Post|In Progress|-|
+|-|Ticket|In Progress|-|
+|-|Favorite|In Progress|-|
+|-|Following|In Progress|-|
+|-|Setting|In Progress|-|
+|-|Evaluation|In Progress|-|
+|-|Inquiry|In Progress|-|
+|-|Turorial|In Progress|-|
+|-|Help|In Progress|-|
+|-|Dash Board|In Progress|-|
+|-|Message|In Progress|-|
+|-|Char Room|In Progress|-|
+|-|Ranking|In Progress|-|
+|-|Timeline|In Progress|-|
+|-|Notification|In Progress|-|
+|Screen Design|-|-|-|
+|-|Top|In Progress|-|
+|-|User Registration|Ready|-|
+|-|Mail Confirmation|Ready|-|
+|-|Login|Ready|-|
+|-|Search Result|Ready|-|
+|-|Profile|Ready|-|
+|-|Block|Ready|-|
+|-|Post|Ready|-|
+|-|Ticket|Ready|-|
+|-|Favorite|Ready|-|
+|-|Following|Ready|-|
+|-|Setting|Ready|-|
+|-|Evaluation|Ready|-|
+|-|Inquiry|Ready|-|
+|-|Turorial|Ready|-|
+|-|Help|Ready|-|
+|-|Dash Board|Ready|-|
+|-|Message|Ready|-|
+|-|Char Room|Ready|-|
+|-|Ranking|Ready|-|
+|-|Timeline|Ready|-|
+|-|Notification|Ready|-|
+|Front Development|-|-|-|
+|Backend Design|-|-|-|
+|-|Database Design|In Progress|-|
+|-|Routing Design|In Progress|-|
+|-|API Design|In Progress|-|
+|Backend Development|-|-|-|
+|Infrastructure Building|-|-|-|
+|-|Staging Environment|Ready|-|
+|-|Production Environment|Ready|-|
+
 ## NeoRad Production
 
 ![NeoRad_TwitterCover_cover_C](https://user-images.githubusercontent.com/69519997/120124713-9c170c00-c1f0-11eb-9c63-0d125e1c37f3.png)
