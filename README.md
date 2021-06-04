@@ -1,6 +1,8 @@
 # TimeCoinProtocol & dApp Development Activities
 
 ## GameTomodachi - Game Player Matchmaking Service
+![logo-02](https://user-images.githubusercontent.com/69519997/120749017-c5ac9c00-c53e-11eb-9029-2793c902a2d8.png)
+
 TimeCoinProtcol launch a new project called "GameTomodachi" in May 21st, 2021. "Tomodachi" means a friend in Japanese. GameTomodachi provides game players to find a new game friend to play with/against various games. Not only finding a new game friend, a user can enjoy playing games with influencers such as YouTubers, VTubers, esports professional players, and cute & beautiful girls. While they are playing games online, they can communicate with each other about common interest topics. An influencer can sell a ticket to play a game with a fan, share pictures/video, and sell NFT goods as well.
 
 ### Schedule
