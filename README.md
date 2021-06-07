@@ -98,6 +98,17 @@ He's usually trying to be cool, but he's really scared of horror games, and tend
 He enjoys playing video games.
 ![irodori](https://user-images.githubusercontent.com/69519997/119617963-539cce80-be3d-11eb-9ba2-16a5825d974b.png)
 
+### 猫姫にこ / Nekohime Niko
+Birthday: Feb. 5
+Age: 20 y/o
+This girl who has always dreamed of being a cat seems to have made a deal with the Dark Master in order to become a Princess in the cat world.
+She is always smiling and makes everyone happy, but she might be hiding something behind that smile...!
+When she gets friendly, she tends to say "nyan" (meow) when she's speaking.
+She gets nervous when she meets new people, but she has a calm personality and can get along with anyone.
+She loves to talk and can't stop once she starts!
+
+![niko02 (2)](https://user-images.githubusercontent.com/69519997/120945565-794aa180-c774-11eb-885d-82e03bb02615.png)
+
 ## TimeTicket
 TimeTicket is a skill sharing service for the B2B and C2C market. Currently enhancing Japanese version and plan to develop international version
 ### https://www.timeticket.jp/
