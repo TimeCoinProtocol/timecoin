@@ -66,6 +66,7 @@ To fulfill this mission, we aim to provide "innovative" and "cool" entertainment
 Transcending the boundaries between the real world and the digital world, our group of groundbreaking virtual creators is providing a wide range of entertainment content such as games, songs, music, animation, and manga.
 
 https://www.neorad.jp/
+https://www.neorad.jp/en
 
 ### 白針うに / Shirahari Uni
 Birthday：March 18
