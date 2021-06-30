@@ -9,52 +9,84 @@ TimeCoinProtcol launch a new project called "GameTomodachi" in May 21st, 2021. "
 |Main Task|Sub Task|Status|Completion Date|
 |-|-|-|-|
 |Spec Definition|-|-|-|
-|-|Top|In Progress|06/09/2021|
-|-|User Registration|In Progress|06/09/2021|
-|-|Mail Confirmation|In Progress|06/09/2021|
-|-|Login|In Progress|06/09/2021|
-|-|Search Result|In Progress|06/09/2021|
-|-|Profile|In Progress|06/09/2021|
-|-|Ticket|In Progress|06/09/2021|
-|-|Favorite|In Progress|06/09/2021|
-|-|Following|In Progress|06/09/2021|
-|-|Setting|In Progress|06/09/2021|
-|-|Evaluation|In Progress|06/09/2021|
-|-|Inquiry|In Progress|06/09/2021|
-|-|Turorial|In Progress|06/09/2021|
-|-|Help|In Progress|06/09/2021|
-|-|Message|In Progress|06/09/2021|
-|-|Chat Room|In Progress|06/09/2021|
-|-|Ranking|In Progress|06/09/2021|
-|-|Notification|In Progress|06/09/2021|
+|-|Sign Up|Completed|06/09/2021|
+|-|Sign In|Completed|06/09/2021|
+|-|Authetication|Completed|06/09/2021|
+|-|Password Reminder|Completed|06/09/2021|
+|-|Top|Completed|06/09/2021|
+|-|Search Player|Completed|06/09/2021|
+|-|Player|Completed|06/09/2021|
+|-|Profile|Completed|06/09/2021|
+|-|Ticket|Completed|06/09/2021|
+|-|Favorite|Complted|06/09/2021|
+|-|Foot Print|Complted|06/09/2021|
+|-|Setting|Completed|06/09/2021|
+|-|Purchased Tickets|Completed|06/09/2021|
+|-|Review|Completed|06/09/2021|
+|-|Inquiry|Completed|06/09/2021|
+|-|Sold Tickets|Completed|06/09/2021|
+|-|Proceed|Completed|06/09/2021|
+|-|Payment|Copleted|06/09/2021|
+|-|Chat Room|Completed|06/09/2021|
+|-|Chat|Completed|06/09/2021|
+|-|Rank|Completed|06/09/2021|
+|-|Notification|Completed|06/09/2021|
+|-|Language & Timezone|Completed|06/09/2021|
+|-|Post Review|Completed|06/09/2021|
+|-|Purchase Tciket|Completed|06/09/2021|
+|-|Turorial|Completed|06/09/2021|
+|-|Terms Of Use|Completed|06/09/2021|
+|-|Privacy Policy|Completed|06/09/2021|
+|-|About Us|Completed|06/09/2021|
+|-|Help|Completed|06/09/2021|
 |Screen Design|-|-|-|
-|-|Top|Completed|06/02/2021|
-|-|User Registration|In Progress|06/09/2021|
-|-|Mail Confirmation|In Progress|06/09/2021|
-|-|Login|In Progress|06/09/2021|
-|-|Search Result|In Progress|06/09/2021|
-|-|Profile|In Progress|06/16/2021|
-|-|Ticket|In Progress|06/16/2021|
-|-|Favorite|In Progress|06/16/2021|
-|-|Following|In Progress|06/16/2021|
-|-|Setting|In Progress|06/16/2021|
-|-|Evaluation|In Progress|06/16/2021|
-|-|Inquiry|In Progress|06/16/2021|
-|-|Turorial|In Progress|06/16/2021|
-|-|Help|In Progress|06/16/2021|
-|-|Message|In Progress|06/09/2021|
-|-|Chat Room|In Progress|06/09/2021|
-|-|Ranking|In Progress|06/23/2021|
-|-|Notification|In Progress|06/23/2021|
-|Front Development|-|-|-|
+|-|Sign Up|Completed|06/09/2021|
+|-|Sign In|Completed|06/09/2021|
+|-|Authetication|Completed|06/23/2021|
+|-|Password Reminder|Completed|06/23/2021|
+|-|Top|In Progress|06/10/2021|
+|-|Search Player|Completed|06/09/2021|
+|-|Player|Completed|06/09/2021|
+|-|Profile|Completed|06/16/2021|
+|-|Ticket|Completed|06/16/2021|
+|-|Favorite|Complted|06/16/2021|
+|-|Foot Print|Complted|06/16/2021|
+|-|Setting|Completed|06/16/2021|
+|-|Purchased Tickets|Completed|06/16/2021|
+|-|Review|Completed|06/16/2021|
+|-|Inquiry|Completed|06/16/2021|
+|-|Sold Tickets|Completed|06/16/2021|
+|-|Proceed|Completed|06/16/2021|
+|-|Payment|Copleted|06/16/2021|
+|-|Chat Room|Completed|06/09/2021|
+|-|Chat|Completed|06/09/2021|
+|-|Rank|Completed|06/23/2021|
+|-|Notification|Completed|06/23/2021|
+|-|Language & Timezone|Completed|06/23/2021|
+|-|Post Review|Completed|06/23/2021|
+|-|Purchase Tciket|Completed|06/23/2021|
+|-|Turorial|Completed|06/23/2021|
+|-|Terms Of Use|Completed|06/23/2021|
+|-|Privacy Policy|Completed|06/23/2021|
+|-|About Us|Completed|06/23/2021|
+|-|Help|Completed|06/23/2021|
 |Backend Design|-|-|-|
-|-|Database Design|In Progress|-|
-|-|Routing Design|In Progress|-|
-|-|API Design|In Progress|-|
+|-|Database|In Progress|07/01/2021|
+|-|WEB|Ready|07/28/2021|
+|-|API|Ready|07/19/2021|
+|-|Batch|Ready|08/04/2021|
 |Backend Development|-|-|-|
+|-|Query Service|Ready||
+|-|Repository|Ready||
+|-|Use Case|Ready||
+|-|API Controller|Ready||
+|-|View Controller & View|Ready||
+|-|Batch & Async Tasks|Ready||
+|-|Others|Ready||
 |Infrastructure Building|-|-|-|
-|-|Staging Environment|Ready|-|
-|-|Production Environment|Ready|-|
+|-|Staging Environment|In Progress|08/31/2021|
+|-|Production Environment|Ready|09/30/2021|
+|Test|-|-|-|
 
 ## NeoRad Production
 
