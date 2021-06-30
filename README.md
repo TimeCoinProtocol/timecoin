@@ -44,20 +44,20 @@ TimeCoinProtcol launch a new project called "GameTomodachi" in May 21st, 2021. "
 |-|Sign In|Completed|06/09/2021|
 |-|Authetication|Completed|06/23/2021|
 |-|Password Reminder|Completed|06/23/2021|
-|-|Top|In Progress|06/10/2021|
+|-|Top|Completed|06/10/2021|
 |-|Search Player|Completed|06/09/2021|
 |-|Player|Completed|06/09/2021|
 |-|Profile|Completed|06/16/2021|
 |-|Ticket|Completed|06/16/2021|
 |-|Favorite|Complted|06/16/2021|
-|-|Foot Print|Complted|06/16/2021|
+|-|Foot Print|Completed|06/16/2021|
 |-|Setting|Completed|06/16/2021|
 |-|Purchased Tickets|Completed|06/16/2021|
 |-|Review|Completed|06/16/2021|
 |-|Inquiry|Completed|06/16/2021|
 |-|Sold Tickets|Completed|06/16/2021|
 |-|Proceed|Completed|06/16/2021|
-|-|Payment|Copleted|06/16/2021|
+|-|Payment|Completed|06/16/2021|
 |-|Chat Room|Completed|06/09/2021|
 |-|Chat|Completed|06/09/2021|
 |-|Rank|Completed|06/23/2021|
