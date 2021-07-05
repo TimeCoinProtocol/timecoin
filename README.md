@@ -71,22 +71,24 @@ TimeCoinProtcol launch a new project called "GameTomodachi" in May 21st, 2021. "
 |-|About Us|Completed|06/23/2021|
 |-|Help|Completed|06/23/2021|
 |Backend Design|-|-|-|
-|-|Database|In Progress|07/01/2021|
+|-|Database|Completed|07/01/2021|
+|-|Common|57%|07/16/2021|
 |-|WEB|Ready|07/28/2021|
 |-|API|Ready|07/19/2021|
 |-|Batch|Ready|08/04/2021|
 |Backend Development|-|-|-|
-|-|Query Service|Ready||
-|-|Repository|Ready||
-|-|Use Case|Ready||
-|-|API Controller|Ready||
-|-|View Controller & View|Ready||
-|-|Batch & Async Tasks|Ready||
-|-|Others|Ready||
+|-|Query Service|Ready|08/06/2021|
+|-|Repository|Ready|08/20/2021|
+|-|Use Case|Ready|08/26/2021|
+|-|API Controller|Ready|08/17/2021|
+|-|View Controller & View|Ready|09/16/2021|
+|-|Batch & Async Tasks|Ready|09/15/2021|
+|-|Others|Ready|08/30/2021|
 |Infrastructure Building|-|-|-|
 |-|Staging Environment|In Progress|08/31/2021|
 |-|Production Environment|Ready|09/30/2021|
-|Test|-|-|-|
+|Test|-|-|Mid October|
+|Launch|-|-|Mid October|
 
 ## NeoRad Production
 
