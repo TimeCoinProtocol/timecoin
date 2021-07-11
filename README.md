@@ -72,7 +72,7 @@ TimeCoinProtcol launch a new project called "GameTomodachi" in May 21st, 2021. "
 |-|Help|Completed|06/23/2021|
 |Backend Design|-|-|-|
 |-|Database|Completed|07/01/2021|
-|-|Common|57%|07/16/2021|
+|-|Common|93%|07/16/2021|
 |-|WEB|Ready|07/28/2021|
 |-|API|Ready|07/19/2021|
 |-|Batch|Ready|08/04/2021|
@@ -135,6 +135,19 @@ She gets nervous when she meets new people, but she has a calm personality and c
 She loves to talk and can't stop once she starts!
 
 ![niko02 (2)](https://user-images.githubusercontent.com/69519997/120945565-794aa180-c774-11eb-885d-82e03bb02615.png)
+
+### Koizumi Hoshi
+
+Birthday: July 3
+Age: Unknown
+Hobby: Fulfill wishes
+Stuck in her lamp at the bottom of the Pacific Ocean, this genie is waiting for a human to discover it. While waiting for someone to discover her lamp, she purchased what she needed on GeniZon to become VTuber, hoping to feel less lonely.  
+After learning about the existence of the Internet, she got addicted to video games and vowed to play them just like humans without using magic.
+Since she has been living in the Pacific Ocean for a long time, she can speak fluently English and Tagalog. Don't try to ask her how old she is since she lost track of her age.
+Let's hope that Hoshi’s lamp won't be found by an evil-minded person.
+
+![Hoshi7](https://user-images.githubusercontent.com/69519997/125213753-9f70dd80-e2ee-11eb-8338-875fa51397c4.png)
+
 
 ## TimeTicket
 TimeTicket is a skill sharing service for the B2B and C2C market. Currently enhancing Japanese version and plan to develop international version
