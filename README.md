@@ -8,77 +8,17 @@ TimeCoinProtcol launch a new project called "GameTomodachi" in May 21st, 2021. "
 ### Schedule
 |Main Task|Sub Task|Status|Completion Date|
 |-|-|-|-|
-|Spec Definition|-|-|-|
-|-|Sign Up|Completed|06/09/2021|
-|-|Sign In|Completed|06/09/2021|
-|-|Authetication|Completed|06/09/2021|
-|-|Password Reminder|Completed|06/09/2021|
-|-|Top|Completed|06/09/2021|
-|-|Search Player|Completed|06/09/2021|
-|-|Player|Completed|06/09/2021|
-|-|Profile|Completed|06/09/2021|
-|-|Ticket|Completed|06/09/2021|
-|-|Favorite|Complted|06/09/2021|
-|-|Foot Print|Complted|06/09/2021|
-|-|Setting|Completed|06/09/2021|
-|-|Purchased Tickets|Completed|06/09/2021|
-|-|Review|Completed|06/09/2021|
-|-|Inquiry|Completed|06/09/2021|
-|-|Sold Tickets|Completed|06/09/2021|
-|-|Proceed|Completed|06/09/2021|
-|-|Payment|Copleted|06/09/2021|
-|-|Chat Room|Completed|06/09/2021|
-|-|Chat|Completed|06/09/2021|
-|-|Rank|Completed|06/09/2021|
-|-|Notification|Completed|06/09/2021|
-|-|Language & Timezone|Completed|06/09/2021|
-|-|Post Review|Completed|06/09/2021|
-|-|Purchase Tciket|Completed|06/09/2021|
-|-|Turorial|Completed|06/09/2021|
-|-|Terms Of Use|Completed|06/09/2021|
-|-|Privacy Policy|Completed|06/09/2021|
-|-|About Us|Completed|06/09/2021|
-|-|Help|Completed|06/09/2021|
-|Screen Design|-|-|-|
-|-|Sign Up|Completed|06/09/2021|
-|-|Sign In|Completed|06/09/2021|
-|-|Authetication|Completed|06/23/2021|
-|-|Password Reminder|Completed|06/23/2021|
-|-|Top|Completed|06/10/2021|
-|-|Search Player|Completed|06/09/2021|
-|-|Player|Completed|06/09/2021|
-|-|Profile|Completed|06/16/2021|
-|-|Ticket|Completed|06/16/2021|
-|-|Favorite|Complted|06/16/2021|
-|-|Foot Print|Completed|06/16/2021|
-|-|Setting|Completed|06/16/2021|
-|-|Purchased Tickets|Completed|06/16/2021|
-|-|Review|Completed|06/16/2021|
-|-|Inquiry|Completed|06/16/2021|
-|-|Sold Tickets|Completed|06/16/2021|
-|-|Proceed|Completed|06/16/2021|
-|-|Payment|Completed|06/16/2021|
-|-|Chat Room|Completed|06/09/2021|
-|-|Chat|Completed|06/09/2021|
-|-|Rank|Completed|06/23/2021|
-|-|Notification|Completed|06/23/2021|
-|-|Language & Timezone|Completed|06/23/2021|
-|-|Post Review|Completed|06/23/2021|
-|-|Purchase Tciket|Completed|06/23/2021|
-|-|Turorial|Completed|06/23/2021|
-|-|Terms Of Use|Completed|06/23/2021|
-|-|Privacy Policy|Completed|06/23/2021|
-|-|About Us|Completed|06/23/2021|
-|-|Help|Completed|06/23/2021|
+|Spec Definition|-|Completed-|-|
+|Screen Design|-|Completed|-|
 |Backend Design|-|-|-|
 |-|Database|Completed|07/01/2021|
-|-|Common|93%|07/16/2021|
-|-|WEB|Ready|07/28/2021|
-|-|API|Ready|07/19/2021|
+|-|Common|Completed|07/16/2021|
+|-|WEB|22%|07/28/2021|
+|-|API|Completed|07/19/2021|
 |-|Batch|Ready|08/04/2021|
 |Backend Development|-|-|-|
-|-|Query Service|Ready|08/06/2021|
-|-|Repository|Ready|08/20/2021|
+|-|Query Service|72%|08/06/2021|
+|-|Repository|12%|08/20/2021|
 |-|Use Case|Ready|08/26/2021|
 |-|API Controller|Ready|08/17/2021|
 |-|View Controller & View|Ready|09/16/2021|
