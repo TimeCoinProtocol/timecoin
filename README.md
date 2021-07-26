@@ -13,13 +13,13 @@ TimeCoinProtcol launch a new project called "GameTomodachi" in May 21st, 2021. "
 |Backend Design|-|-|-|
 |-|Database|Completed|07/01/2021|
 |-|Common|Completed|07/16/2021|
-|-|WEB|22%|07/28/2021|
+|-|WEB|Completed|07/28/2021|
 |-|API|Completed|07/19/2021|
 |-|Batch|Ready|08/04/2021|
 |Backend Development|-|-|-|
-|-|Query Service|72%|08/06/2021|
-|-|Repository|12%|08/20/2021|
-|-|Use Case|Ready|08/26/2021|
+|-|Query Service|79%|08/06/2021|
+|-|Repository|83%|08/20/2021|
+|-|Use Case|3|08/26/2021|
 |-|API Controller|Ready|08/17/2021|
 |-|View Controller & View|Ready|09/16/2021|
 |-|Batch & Async Tasks|Ready|09/15/2021|
@@ -135,6 +135,8 @@ TimeTicket is a skill sharing service for the B2B and C2C market. Currently enha
 ##### Apr
 - Releasing TimeTicket B2C(https://tech.timeticket.jp) and C2C(https://timeticket.jp) profile registration process and UI renewable. TimeTicket B2C and C2C site will be integrated into one. The integration project phase 1&2 is completed.
 
+##### Jul
+- 3D Secure Feature Released
 
 ## eSportStars
 eSportStars is the user matching service for an esports professional player and fan where they can trade service and NFT digital items with DeFi.
