@@ -10,16 +10,11 @@ TimeCoinProtcol launch a new project called "GameTomodachi" in May 21st, 2021. "
 |-|-|-|-|
 |Spec Definition|-|Completed-|-|
 |Screen Design|-|Completed|-|
-|Backend Design|-|-|-|
-|-|Database|Completed|07/01/2021|
-|-|Common|Completed|07/16/2021|
-|-|WEB|Completed|07/28/2021|
-|-|API|Completed|07/19/2021|
-|-|Batch|Ready|08/04/2021|
-|Backend Development|-|-|-|
-|-|Query Service|79%|08/06/2021|
+|Backend Design|-|Completed-|-|
+|Backend Development|-|64%|-|
+|-|Query Service|93%|08/06/2021|
 |-|Repository|83%|08/20/2021|
-|-|Use Case|3|08/26/2021|
+|-|Use Case|43%|08/26/2021|
 |-|API Controller|Ready|08/17/2021|
 |-|View Controller & View|Ready|09/16/2021|
 |-|Batch & Async Tasks|Ready|09/15/2021|
