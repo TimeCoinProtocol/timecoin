@@ -5,17 +5,22 @@
 
 TimeCoinProtcol launch a new project called "GameTomodachi" in May 21st, 2021. "Tomodachi" means a friend in Japanese. GameTomodachi provides game players to find a new game friend to play with/against various games. Not only finding a new game friend, a user can enjoy playing games with influencers such as YouTubers, VTubers, esports professional players, and cute & beautiful girls. While they are playing games online, they can communicate with each other about common interest topics. An influencer can sell a ticket to play a game with a fan, share pictures/video, and sell NFT goods as well.
 
+### Landing Page Launched
+https://lp.gametomodachi.com
+![Screen Shot 2021-08-15 at 17 57 02](https://user-images.githubusercontent.com/69519997/129473006-b6dfbee0-7035-43b0-9ad9-81d3306a64ba.png)
+
+
 ### Schedule
 |Main Task|Sub Task|Status|Completion Date|
 |-|-|-|-|
-|Spec Definition|-|Completed-|-|
+|Spec Definition|-|Completed|-|
 |Screen Design|-|Completed|-|
-|Backend Design|-|Completed-|-|
+|Backend Design|-|Completed|-|
 |Backend Development|-|64%|-|
-|-|Query Service|93%|08/06/2021|
-|-|Repository|83%|08/20/2021|
-|-|Use Case|43%|08/26/2021|
-|-|API Controller|Ready|08/17/2021|
+|-|Query Service|100%|08/06/2021|
+|-|Repository|100%|08/20/2021|
+|-|Use Case|99%|08/26/2021|
+|-|API Controller|96%|08/17/2021|
 |-|View Controller & View|Ready|09/16/2021|
 |-|Batch & Async Tasks|Ready|09/15/2021|
 |-|Others|Ready|08/30/2021|
