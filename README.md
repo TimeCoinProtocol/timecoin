@@ -16,16 +16,16 @@ https://lp.gametomodachi.com
 |Spec Definition|-|Completed|-|
 |Screen Design|-|Completed|-|
 |Backend Design|-|Completed|-|
-|Backend Development|-|64%|-|
-|-|Query Service|100%|08/06/2021|
-|-|Repository|100%|08/20/2021|
-|-|Use Case|99%|08/26/2021|
-|-|API Controller|96%|08/17/2021|
-|-|View Controller & View|Ready|09/16/2021|
-|-|Batch & Async Tasks|Ready|09/15/2021|
-|-|Others|Ready|08/30/2021|
+|Development|-|80%|-|
+|-|Query Service|Completed|08/06/2021|
+|-|Repository|Completed|08/20/2021|
+|-|Use Case|Completed|08/26/2021|
+|-|API Controller|Completed|08/17/2021|
+|-|View Controller & View|53%|09/16/2021|
+|-|Batch & Async Tasks|88%|09/15/2021|
+|-|Others|Completed|08/30/2021|
 |Infrastructure Building|-|-|-|
-|-|Staging Environment|In Progress|08/31/2021|
+|-|Staging Environment|90%|08/31/2021|
 |-|Production Environment|Ready|09/30/2021|
 |Test|-|-|Mid October|
 |Launch|-|-|Mid October|
@@ -137,6 +137,10 @@ TimeTicket is a skill sharing service for the B2B and C2C market. Currently enha
 
 ##### Jul
 - 3D Secure Feature Released
+
+##### Aug
+- Fix bug for 3D sercure feature
+- Update search algorithm
 
 ## eSportStars
 eSportStars is the user matching service for an esports professional player and fan where they can trade service and NFT digital items with DeFi.
