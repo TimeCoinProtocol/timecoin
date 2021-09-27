@@ -16,18 +16,11 @@ https://lp.gametomodachi.com
 |Spec Definition|-|Completed|-|
 |Screen Design|-|Completed|-|
 |Backend Design|-|Completed|-|
-|Development|-|80%|-|
-|-|Query Service|Completed|08/06/2021|
-|-|Repository|Completed|08/20/2021|
-|-|Use Case|Completed|08/26/2021|
-|-|API Controller|Completed|08/17/2021|
-|-|View Controller & View|53%|09/16/2021|
-|-|Batch & Async Tasks|88%|09/15/2021|
-|-|Others|Completed|08/30/2021|
+|Development|-|Completed|-|
 |Infrastructure Building|-|-|-|
-|-|Staging Environment|90%|08/31/2021|
-|-|Production Environment|Ready|09/30/2021|
-|Test|-|-|Mid October|
+|-|Staging Environment|Completed|08/31/2021|
+|-|Production Environment|80%|09/30/2021|
+|Test|-|10%|Mid October|
 |Launch|-|-|Mid October|
 
 ## NeoRad Production
