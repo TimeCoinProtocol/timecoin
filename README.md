@@ -17,11 +17,9 @@ https://lp.gametomodachi.com
 |Screen Design|-|Completed|-|
 |Backend Design|-|Completed|-|
 |Development|-|Completed|-|
-|Infrastructure Building|-|-|-|
-|-|Staging Environment|Completed|08/31/2021|
-|-|Production Environment|80%|09/30/2021|
-|Test|-|10%|Mid October|
-|Launch|-|-|Mid October|
+|Infrastructure Building|-|Completed|-|
+|Test|-|80%|Mid October|
+|Launch|-|-|Late October|
 
 ## NeoRad Production
 
