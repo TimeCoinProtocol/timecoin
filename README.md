@@ -11,15 +11,27 @@ https://lp.gametomodachi.com
 
 
 ### Schedule
+### Development history
+------
+#### 2021
+------
+##### Oct
+- 26th : Launch
+- 27th : Fix bug
+- 28th : Fix bud
+
+#### Feature addition
+#### Payment
+
 |Main Task|Sub Task|Status|Completion Date|
 |-|-|-|-|
 |Spec Definition|-|Completed|-|
-|Screen Design|-|Completed|-|
-|Backend Design|-|Completed|-|
-|Development|-|Completed|-|
-|Infrastructure Building|-|Completed|-|
-|Test|-|80%|Mid October|
-|Launch|-|-|Late October|
+
+#### Cancel / Refund
+
+|Main Task|Sub Task|Status|Completion Date|
+|-|-|-|-|
+|Spec Definition|-|Completed|-|
 
 ## NeoRad Production
 
@@ -132,6 +144,10 @@ TimeTicket is a skill sharing service for the B2B and C2C market. Currently enha
 ##### Aug
 - Fix bug for 3D sercure feature
 - Update search algorithm
+
+##### Oct
+##### Apr
+- Releasing profile registration process and UI renewable.
 
 ## eSportStars
 eSportStars is the user matching service for an esports professional player and fan where they can trade service and NFT digital items with DeFi.
