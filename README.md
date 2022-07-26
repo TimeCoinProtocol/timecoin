@@ -18,20 +18,36 @@ https://lp.gametomodachi.com
 ##### Oct
 - 26th : Launch
 - 27th : Fix bug
-- 28th : Fix bud
-
-#### Feature addition
-#### Payment
-
+- 28th : Fix bug
+##### December
+- 14th : User profile improved
+- 14th : Top page improved
+#### 2022
+##### January
+- 18th : Cancel feature
+- 18th : Refund feature
+- 18th : Payment feature
+##### March
+- 14th : Withdrawal feature
+- 20th : Top page improved
+- 20th : User profile setting improved
+##### May
+- 11th : Search condition improved
+- 11th : Available time feature
+- 11th : Chat message template feature
+#### Mobile App Project
+**Mobile App Development**
 |Main Task|Sub Task|Status|Completion Date|
 |-|-|-|-|
-|Spec Definition|-|Completed|-|
+|Spec Definition|-|On Going|-|
+|UI Design|-|80%|-|
+|Archtecture Design|-|Ready|-|
 
-#### Cancel / Refund
-
+**Server Side Development**
 |Main Task|Sub Task|Status|Completion Date|
 |-|-|-|-|
-|Spec Definition|-|Completed|-|
+|Spec Definition|-|On Going|-|
+|Archtecture Design|-|38%|-|
 
 ## NeoRad Production
 
