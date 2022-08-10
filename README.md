@@ -39,15 +39,15 @@ https://lp.gametomodachi.com
 **Mobile App Development**
 |Main Task|Sub Task|Status|Completion Date|
 |-|-|-|-|
-|Spec Definition|-|On Going|-|
-|UI Design|-|80%|-|
-|Archtecture Design|-|Ready|-|
+|Spec Definition|-|Completed|7/30/2022|
+|UI Design|-|Completed|8/7/2022|
+|Archtecture Design|-|30%|-|
 
 **Server Side Development**
 |Main Task|Sub Task|Status|Completion Date|
 |-|-|-|-|
-|Spec Definition|-|On Going|-|
-|Archtecture Design|-|38%|-|
+|Spec Definition|-|Completed|7/30/2022|
+|Archtecture Design|-|70%|-|
 
 ## NeoRad Production
 
