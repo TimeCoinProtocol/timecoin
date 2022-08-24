@@ -41,13 +41,13 @@ https://lp.gametomodachi.com
 |-|-|-|-|
 |Spec Definition|-|Completed|7/30/2022|
 |UI Design|-|Completed|8/7/2022|
-|Archtecture Design|-|30%|-|
+|Archtecture Design|-|60%|-|
 
 **Server Side Development**
 |Main Task|Sub Task|Status|Completion Date|
 |-|-|-|-|
 |Spec Definition|-|Completed|7/30/2022|
-|Archtecture Design|-|70%|-|
+|Archtecture Design|-|87%|-|
 
 ## NeoRad Production
 
