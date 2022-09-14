@@ -5,13 +5,12 @@
 
 TimeCoinProtcol launch a new project called "GameTomodachi" in May 21st, 2021. "Tomodachi" means a friend in Japanese. GameTomodachi provides game players to find a new game friend to play with/against various games. Not only finding a new game friend, a user can enjoy playing games with influencers such as YouTubers, VTubers, esports professional players, and cute & beautiful girls. While they are playing games online, they can communicate with each other about common interest topics. An influencer can sell a ticket to play a game with a fan, share pictures/video, and sell NFT goods as well.
 
-### Landing Page Launched
+### Landing Page
 https://lp.gametomodachi.com
 ![Screen Shot 2021-08-15 at 17 57 02](https://user-images.githubusercontent.com/69519997/129473006-b6dfbee0-7035-43b0-9ad9-81d3306a64ba.png)
 
 
-### Schedule
-### Development history
+### Development history : Web Version
 ------
 #### 2021
 ------
@@ -35,20 +34,21 @@ https://lp.gametomodachi.com
 - 11th : Search condition improved
 - 11th : Available time feature
 - 11th : Chat message template feature
-#### Mobile App Project
+### Mobile App Project
 **Mobile App Development**
 |Main Task|Sub Task|Status|Completion Date|
 |-|-|-|-|
 |Spec Definition|-|Completed|7/30/2022|
 |UI Design|-|Completed|8/7/2022|
-|Archtecture Design|-|77%|-|
+|Archtecture Design|-|Completed|9/12/2022|
+|Implement|-|14%|-|
 
 **Server Side Development**
 |Main Task|Sub Task|Status|Completion Date|
 |-|-|-|-|
 |Spec Definition|-|Completed|7/30/2022|
 |Archtecture Design|-|Completed|8/30/2022|
-|Implement|-|On Going|-|
+|Implement|-|16%|-|
 
 ## TimeTicket
 TimeTicket is a skill sharing service for the B2B and C2C market. Currently enhancing Japanese version and plan to develop international version
@@ -103,9 +103,33 @@ TimeTicket is a skill sharing service for the B2B and C2C market. Currently enha
 - Fix bug for 3D sercure feature
 - Update search algorithm
 
+##### Sep
+- Top page UI renewable.
+
 ##### Oct
+- Header and footer improved.
+- Registration process improved.
+
+##### December
+- Top page UI improved.
+
+#### 2022
+##### Jan
+- Top page UI improved.
+
+##### Mar
+- Fix bugs.
+
 ##### Apr
-- Releasing profile registration process and UI renewable.
+- Renewal registration process and UI renewable.
+- Infrastructure rebuild.
+
+##### Jul
+- Top page UI renewable.
+
+##### Aug
+- Tiket list improved.
+
 
 ## eSportStars
 eSportStars is the user matching service for an esports professional player and fan where they can trade service and NFT digital items with DeFi.
