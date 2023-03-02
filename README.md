@@ -34,21 +34,27 @@ https://lp.gametomodachi.com
 - 11th : Search condition improved
 - 11th : Available time feature
 - 11th : Chat message template feature
-### Mobile App Project
+### Web Renewal & Mobile App Project
 **Mobile App Development**
 |Main Task|Sub Task|Status|Completion Date|
 |-|-|-|-|
 |Spec Definition|-|Completed|7/30/2022|
 |UI Design|-|Completed|8/7/2022|
 |Archtecture Design|-|Completed|9/12/2022|
-|Implement|-|40%|-|
+|Implement|-|80%|Pending|
+
+**Web Renewal Development**
+|Main Task|Sub Task|Status|Completion Date|
+|-|-|-|-|
+|Spec Definition|-|Completed|7/30/2022|
+|Implement|-|45%||
 
 **Server Side Development**
 |Main Task|Sub Task|Status|Completion Date|
 |-|-|-|-|
 |Spec Definition|-|Completed|7/30/2022|
 |Archtecture Design|-|Completed|8/30/2022|
-|Implement|-|53%|-|
+|Implement|-|Completed|1/31/2023|
 
 ## TimeTicket
 TimeTicket is a skill sharing service for the B2B and C2C market. Currently enhancing Japanese version and plan to develop international version
