@@ -47,14 +47,15 @@ https://lp.gametomodachi.com
 |Main Task|Sub Task|Status|Completion Date|
 |-|-|-|-|
 |Spec Definition|-|Completed|7/30/2022|
-|Implement|-|45%||
+|Implement|-|Completed||
+|Testing|-|80%||
 
 **Server Side Development**
 |Main Task|Sub Task|Status|Completion Date|
 |-|-|-|-|
 |Spec Definition|-|Completed|7/30/2022|
 |Archtecture Design|-|Completed|8/30/2022|
-|Implement|-|Completed|1/31/2023|
+|Implement|-|Completed||
 
 ## TimeTicket
 TimeTicket is a skill sharing service for the B2B and C2C market. Currently enhancing Japanese version and plan to develop international version
